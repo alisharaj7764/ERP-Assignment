@@ -85,6 +85,7 @@ const ProductList = () => {
   ];
 
   let rows = [];
+
   products &&
     products.forEach((item, index) => {
       rows.push({

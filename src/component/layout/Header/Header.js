@@ -45,17 +45,17 @@ const Header = () => {
               </Link>
             </li>
             <li className="">
-              <Link className="nav-link" to="/">
+              <Link className="nav-link" to="/product-page">
                 Products
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/">
+              <Link className="nav-link" to="/contact">
                 Contact
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/">
+              <Link className="nav-link" to="/about">
                 About
               </Link>
             </li>
@@ -73,7 +73,7 @@ const Header = () => {
           </form>
           <ul className="navbar-nav">
             <li className="nav-item active">
-              <Link className="nav-link" to="/">
+              <Link className="nav-link" to="/login">
                 {" "}
                 <AccountCircleIcon />{" "}
               </Link>

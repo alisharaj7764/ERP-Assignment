@@ -1,0 +1,19 @@
+.about-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1,
+h2 {
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-bottom: 20px;
+  margin-left: 40px;
+}
+
+p {
+  line-height: 1.5;
+}
