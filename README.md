@@ -37,7 +37,7 @@ Contact Page 🧑‍🤝‍🧑
 
 About Us Page 📈
 
-![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
+![Image Alt text](/images/SCR-20240313-uioz.png "Optional title")
 
 Login Page 🧳
 
