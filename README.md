@@ -50,11 +50,3 @@ Login Page 🧳
 ![Image Alt text](/images/SCR-20240313-uitv.jpeg "Optional title")
 
 
-Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
