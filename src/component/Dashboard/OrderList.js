@@ -12,7 +12,12 @@ import { orders } from "../../data/orderData";
 const OrderList = () => {
   const columns = [
     { field: "id", headerName: "Order ID", minWidth: 300, flex: 1 },
-
+    {
+      field: "customer",
+      headerName: "customer",
+      minWidth: 150,
+      flex: 0.5,
+    },
     {
       field: "status",
       headerName: "Status",
@@ -30,15 +35,15 @@ const OrderList = () => {
       field: "itemsQty",
       headerName: "Items Qty",
       type: "number",
-      minWidth: 150,
+      minWidth: 100,
       flex: 0.4,
     },
 
     {
-      field: "amount",
-      headerName: "Amount",
+      field: "date",
+      headerName: "Date",
       type: "number",
-      minWidth: 270,
+      minWidth: 200,
       flex: 0.5,
     },
 
@@ -65,14 +70,21 @@ const OrderList = () => {
   ];
 
   let rows = [];
-
+  rows.push({
+    id: "Id",
+    itemsQty: "Quantity",
+    date: "Date",
+    status: "Order Status",
+    customer: "Customer",
+  });
   orders &&
     orders.forEach((item, index) => {
       rows.push({
         id: item._id,
-        itemsQty: item.orderItems.length,
-        amount: item.totalPrice,
+        itemsQty: item.quantity,
+        date: item.date,
         status: item.orderStatus,
+        customer: item.customer,
       });
     });
 

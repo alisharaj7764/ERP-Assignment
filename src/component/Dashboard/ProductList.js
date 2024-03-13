@@ -85,7 +85,12 @@ const ProductList = () => {
   ];
 
   let rows = [];
-
+  rows.push({
+    id: "Id",
+    stock: "Stock",
+    price: "Price",
+    name: "Product Name",
+  });
   products &&
     products.forEach((item, index) => {
       rows.push({
