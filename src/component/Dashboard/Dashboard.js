@@ -17,11 +17,7 @@ const Dashboard = () => {
     products.forEach((item) => {
       if (item.stock === 0) outOfStock += 1;
     });
-  let totalAmount = 0;
-  orders &&
-    orders.forEach((item) => {
-      totalAmount += item.totalPrice;
-    });
+  let totalAmount = 15302024.58;
   const lineState = {
     labels: ["Initial Amount", "Amount Earned"],
     datasets: [
