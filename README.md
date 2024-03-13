@@ -19,13 +19,30 @@ DashBoard 💰
 
 ![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
 
-Inventory Management 🧳
+Product Management 🧳
 
-Accounting Management 📈
+![Image Alt text](/images/SCR-20240313-ujee.png "Optional title")
 
-HR Management 🧑‍🤝‍🧑
+Order Management 📈
 
-Ant Design Framework(AntD) 🐜
+![Image Alt text](/images/SCR-20240313-ujhx.png "Optional title")
+
+Products 🧑‍🤝‍🧑
+
+![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
+
+Contact Page 🧑‍🤝‍🧑
+
+![Image Alt text](/images/SCR-20240313-uimb.jpeg "Optional title")
+
+About Us Page 📈
+
+![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
+
+Login Page 🧳
+
+![Image Alt text](/images/SCR-20240313-uitv.jpeg "Optional title")
+
 
 Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
