@@ -14,9 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 Features :
+
 DashBoard 💰
 
-![Image Alt text](/images/SCR-20240313-uhti.png "Optional title")
+![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
 
 Inventory Management 🧳
 
