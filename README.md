@@ -13,12 +13,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
-Features :
+Features:
 
 DashBoard 💰
 
 ![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
-
 
 
 Product Management 🧳
@@ -26,11 +25,9 @@ Product Management 🧳
 ![Image Alt text](/images/SCR-20240313-ujee.png "Optional title")
 
 
-
 Order Management 📈
 
 ![Image Alt text](/images/SCR-20240313-ujhx.png "Optional title")
-
 
 
 Products 🧑‍🤝‍🧑
@@ -38,11 +35,9 @@ Products 🧑‍🤝‍🧑
 ![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
 
 
-
 Contact Page 🧑‍🤝‍🧑
 
 ![Image Alt text](/images/SCR-20240313-uimb.jpeg "Optional title")
-
 
 
 About Us Page 📈
@@ -50,17 +45,12 @@ About Us Page 📈
 ![Image Alt text](/images/SCR-20240313-uioz.png "Optional title")
 
 
-
 Login Page 🧳
 
 ![Image Alt text](/images/SCR-20240313-uitv.jpeg "Optional title")
 
 
-
-
 Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
-
-
 
 In the project directory, you can run:
 
@@ -68,7 +58,3 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
-
-
