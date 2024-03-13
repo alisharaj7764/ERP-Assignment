@@ -1,6 +1,6 @@
 # Getting Started with ERP React App
 
-1.Clone the repository
+1.Clone the repository "https://github.com/alisharaj7764/ERP-Assignment.git"
 
 2.Open Terminal
 
