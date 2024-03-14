@@ -40,9 +40,9 @@ Follow these steps to install and set up the application:
 ## Usage
 
 Once the installation is complete, you can run the application using the following command:
+'''bash
+npm start
 
-  ```bash
-  npm start
 
 
 
