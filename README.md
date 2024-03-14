@@ -34,7 +34,9 @@ Follow these steps to install and set up the application:
 2. Install dependencies using npm:
 
    ```bash
-   npm install --legacy-peer-deps
+   npm install --legacy-peer-deps / npm install --force
+
+   --lagecy-peer-deps or --force to resolve @material-ui/core.
    
 ## Usage
 
@@ -49,7 +51,7 @@ This command starts the application in development mode. Open http://localhost:3
 1. React: A JavaScript library for building user interfaces.
 2. React Router: A library for declarative routing in React applications.
 3. HTML/CSS: Standard technologies for structuring and styling web pages.
-
+4. MaterialUi: for desigining.
 
 ## Features:
 
