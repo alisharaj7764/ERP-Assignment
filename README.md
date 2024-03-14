@@ -43,6 +43,37 @@ Once the installation is complete, you can run the application using the followi
 ```bash
 npm start
 ```
+This command starts the application in development mode. Open http://localhost:3000 in your web browser to view the application.
+
+## Folder Structure
+
+The folder structure of the application is as follows:
+
+ERP-Assignment/
+  ├── public/
+  │   ├── favicon.ico
+  │   ├── index.html
+  │   ├── logo192.png
+  │   ├── logo512.png
+  │   ├── manifest.json
+  │   ├── Profile.png
+  │   └── robots.txt
+  ├── src/
+  │   ├── component/
+  │   │   ├── AboutPage/
+  │   │   ├── Auth/
+  │   │   ├── Contact/
+  │   │   ├── Dashboard/
+  │   │   ├── Home/
+  │   │   └── Layout/
+  │   ├── data/
+  │   ├── App.css
+  │   ├── App.js
+  │   └── index.js
+  ├── package.json
+  └── README.md
+
+
 
 
 
