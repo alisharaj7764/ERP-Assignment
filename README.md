@@ -32,9 +32,7 @@ Follow these steps to install and set up the application:
    git clone https://github.com/alisharaj7764/ERP-Assignment.git
 
 2. Navigate to the project directory:
-   ```bash
-   cd ERP-Assignment
-   ```
+   
 
 3. Install dependencies using npm:
 
