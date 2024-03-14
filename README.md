@@ -31,8 +31,11 @@ Follow these steps to install and set up the application:
 
    ```bash
    git clone <repository-url>
-   ```bash
+   
+2. Install dependencies using npm:
 
+   ```bash
+   npm install --legacy-peer-deps
 
 
 
