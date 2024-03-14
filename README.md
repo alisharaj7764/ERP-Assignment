@@ -57,37 +57,37 @@ This command starts the application in development mode. Open http://localhost:3
 
 ## Features:
 
-DashBoard 💰
+## DashBoard 
 
 ![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
 
 
-Product Management 🧳
+## Product Management 
 
 ![Image Alt text](/images/SCR-20240313-ujee.png "Optional title")
 
 
-Order Management 📈
+## Order Management 
 
 ![Image Alt text](/images/SCR-20240313-ujhx.png "Optional title")
 
 
-Products 🧑‍🤝‍🧑
+## Products 
 
 ![Image Alt text](/images/SCR-20240313-uiii.jpeg "Optional title")
 
 
-Contact Page 🧑‍🤝‍🧑
+## Contact Page 
 
 ![Image Alt text](/images/SCR-20240313-uimb.jpeg "Optional title")
 
 
-About Us Page 📈
+## About Us Page 
 
 ![Image Alt text](/images/SCR-20240313-uioz.png "Optional title")
 
 
-Login Page 🧳
+## Login Page 
 
 ![Image Alt text](/images/SCR-20240313-uitv.jpeg "Optional title")
 
