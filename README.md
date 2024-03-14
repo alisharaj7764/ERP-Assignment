@@ -1,27 +1,36 @@
-ERP System Front-end Application
+# ERP System Front-end Application
 
 Welcome to the ERP System Front-end Application README! This document provides all the necessary information to set up, run, and use the application.
 
-Table of Contents
+## Table of Contents
 
-Overview
-Prerequisites
-Installation
-Usage
-Folder Structure
-Technologies Used
-Contributing
-License
-Overview
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
 
 This front-end application is part of a simplified ERP (Enterprise Resource Planning) system designed to manage basic business operations efficiently. It includes pages for dashboard, products management, and orders management. The application is built using React and utilizes React Router for navigation.
 
-Prerequisites
+## Prerequisites
 
 Before running the application, ensure that you have the following prerequisites installed:
 
-Node.js and npm (Node Package Manager): Make sure you have Node.js and npm installed on your machine. You can download and install them from here.
+- Node.js and npm (Node Package Manager): Make sure you have Node.js and npm installed on your machine. You can download and install them from [here](https://nodejs.org/).
 
+## Installation
+
+Follow these steps to install and set up the application:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone <repository-url>
 
 
 
