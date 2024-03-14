@@ -32,7 +32,7 @@ Order Management 📈
 
 Products 🧑‍🤝‍🧑
 
-![Image Alt text](/images/SCR-20240313-uosq.png "Optional title")
+![Image Alt text](/images/SCR-20240313-uiii.jpeg "Optional title")
 
 
 Contact Page 🧑‍🤝‍🧑
