@@ -31,6 +31,7 @@ Follow these steps to install and set up the application:
 
    ```bash
    git clone <repository-url>
+   ```bash
 
 
 
