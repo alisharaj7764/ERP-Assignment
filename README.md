@@ -52,7 +52,7 @@ This command starts the application in development mode. Open http://localhost:3
 1. React: A JavaScript library for building user interfaces.
 2. React Router: A library for declarative routing in React applications.
 3. HTML/CSS: Standard technologies for structuring and styling web pages.
-4. MaterialUi: for desigining.
+4. Material-UI for designing.
 
 ## Features:
 
