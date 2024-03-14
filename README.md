@@ -8,10 +8,9 @@ Welcome to the ERP System Front-end Application README! This document provides a
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#features)
+
 
 ## Overview
 
@@ -45,74 +44,14 @@ npm start
 ```
 This command starts the application in development mode. Open http://localhost:3000 in your web browser to view the application.
 
-## Folder Structure
+## Technologies Used
 
-The folder structure of the application is as follows:
-
-# Project Folder Structure
-project-root/
-├── public/
-│ ├── favicon.ico
-│ ├── index.html
-│ ├── logo192.png
-│ ├── logo512.png
-│ ├── manifest.json
-│ ├── Profile.png
-│ └── robots.txt
-├── src/
-│ ├── component/
-│ │ ├── AboutPage/
-│ │ ├── Auth/
-│ │ ├── Contact/
-│ │ ├── Dashboard/
-│ │ ├── Home/
-│ │ └── Layout/
-│ ├── data/
-│ ├── App.css
-│ ├── App.js
-│ └── index.js
-├── package.json
-└── README.md
+1. React: A JavaScript library for building user interfaces.
+2. React Router: A library for declarative routing in React applications.
+3. HTML/CSS: Standard technologies for structuring and styling web pages.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Getting Started with ERP React App
-
-1.Clone the repository "https://github.com/alisharaj7764/ERP-Assignment.git"
-
-2.Open Terminal
-
-3.Run the command "npm install --legacy-peer-deps"
-
-4.Then run the command "npm start"
-
-5.Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
-
-Features:
+## Features:
 
 DashBoard 💰
 
