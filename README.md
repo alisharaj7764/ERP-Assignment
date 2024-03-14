@@ -44,8 +44,6 @@ Once the installation is complete, you can run the application using the followi
   ```bash
   npm start
 
-This command starts the application in development mode. Open http://localhost:3000 in your web browser to view the application. 
-
 
 
 
