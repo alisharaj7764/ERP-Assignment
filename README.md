@@ -50,29 +50,29 @@ This command starts the application in development mode. Open http://localhost:3
 The folder structure of the application is as follows:
 
 # Project Folder Structure
-ERP-Assignment/
-  ├── public/
-  │   ├── favicon.ico
-  │   ├── index.html
-  │   ├── logo192.png
-  │   ├── logo512.png
-  │   ├── manifest.json
-  │   ├── Profile.png
-  │   └── robots.txt
-  ├── src/
-  │   ├── component/
-  │   │   ├── AboutPage/
-  │   │   ├── Auth/
-  │   │   ├── Contact/
-  │   │   ├── Dashboard/
-  │   │   ├── Home/
-  │   │   └── Layout/
-  │   ├── data/
-  │   ├── App.css
-  │   ├── App.js
-  │   └── index.js
-  ├── package.json
-  └── README.md
+project-root/
+├── public/
+│ ├── favicon.ico
+│ ├── index.html
+│ ├── logo192.png
+│ ├── logo512.png
+│ ├── manifest.json
+│ ├── Profile.png
+│ └── robots.txt
+├── src/
+│ ├── component/
+│ │ ├── AboutPage/
+│ │ ├── Auth/
+│ │ ├── Contact/
+│ │ ├── Dashboard/
+│ │ ├── Home/
+│ │ └── Layout/
+│ ├── data/
+│ ├── App.css
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
 
 
 
