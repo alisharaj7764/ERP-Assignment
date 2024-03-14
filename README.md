@@ -34,10 +34,10 @@ Follow these steps to install and set up the application:
 2. Install dependencies using npm:
 
    ```bash
-   npm install --legacy-peer-deps / npm install --force
+   npm install --force
    ```
 
-   --force to resolve @material-ui/core.
+   '--force' to resolve @material-ui/core.
    
 ## Usage
 
