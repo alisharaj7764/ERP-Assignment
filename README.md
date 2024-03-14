@@ -49,6 +49,7 @@ This command starts the application in development mode. Open http://localhost:3
 
 The folder structure of the application is as follows:
 
+# Project Folder Structure
 ERP-Assignment/
   ├── public/
   │   ├── favicon.ico
