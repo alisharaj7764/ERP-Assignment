@@ -41,8 +41,8 @@ Follow these steps to install and set up the application:
 
 Once the installation is complete, you can run the application using the following command:
 
-```bash
-npm start
+  ```bash
+  npm start
 
 This command starts the application in development mode. Open http://localhost:3000 in your web browser to view the application. 
 
